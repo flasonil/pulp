@@ -19,12 +19,12 @@
 #
 
 pulp_soc:
-  commit: integration
+  commit: pulp-next-bluewww
   server: https://github.com
   group:  pulp-platform
 
 pulp_cluster:
-  commit: master
+  commit: 46d088872982dee28434ee394b5419f76c87d400
   server: https://github.com
   group:  pulp-platform
 
