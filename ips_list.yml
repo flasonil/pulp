@@ -21,12 +21,11 @@
 pulp_soc:
   commit: v1.1.0
   server: https://github.com
-  group:  pulp-platform
+  group:  flasonil
 
 pulp_cluster:
-  commit: 741bbc945213b6367c89ee668960dcdfeaf1c8d0
   server: https://github.com
-  group:  pulp-platform
+  group:  flasonil
 
 tbtools:
   commit: v0.1
