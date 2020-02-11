@@ -19,11 +19,12 @@
 #
 
 pulp_soc:
-  commit: v1.1.0
+  commit: master
   server: https://github.com
   group:  flasonil
 
 pulp_cluster:
+  commit: master
   server: https://github.com
   group:  flasonil
 
