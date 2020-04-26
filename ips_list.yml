@@ -19,7 +19,7 @@
 #
 
 pulp_soc:
-  commit: master
+  commit: id-lockstep
   server: https://github.com
   group:  flasonil
 
