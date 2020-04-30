@@ -24,7 +24,7 @@ pulp_soc:
   group:  flasonil
 
 pulp_cluster:
-  commit: master
+  commit: id-lockstep
   server: https://github.com
   group:  flasonil
 
